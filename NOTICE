@@ -1,0 +1,8 @@
+fvscurl.pl
+Copyright (C) 2012  Yoshihiro TSUBOI
+
+This script is based on Amazon S3 Authentication Tool for Curl (version: 2010-11-16) by "Amazon.com, Inc. or its affiliates." as shown below.
+You can find original code at http://aws.amazon.com/code/128
+
+Amazon S3 Authentication Tool for Curl
+Copyright 2006-2010 Amazon.com, Inc. or its affiliates. All Rights Reserved. 
